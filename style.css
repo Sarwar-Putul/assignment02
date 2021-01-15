@@ -1,0 +1,41 @@
+h2{
+    font-family: 'Bebas Neue';
+    font-size: 48px;
+    color: #363958;
+    padding-bottom: 16px;
+}
+h5{
+    font-size: 24px;
+    font-weight: bold;
+    color: #363958;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    color: #3E3E3E;
+}
+.price{
+    font-size: 36px;
+    font-weight: 700;
+    color:#FABE4C
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 900px){
+.service {
+    text-align: center;
+}
+.responcive-center-text {
+    text-align: center;
+}
+.img_height {
+    height: 100px;
+    object-fit: contain;
+}
+.small_screen_full_width {
+    width: 100%;
+}
